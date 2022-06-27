@@ -1,7 +1,5 @@
 # SoulPot organisation
-======================
-
-## Stats from github.com/AlDanial/cloc v 1.92
+----------------------
 | Language                   | files        | blank      | comment       | code
 -----------------------------|--------------|------------|---------------|-----
 JSON                         |  26          |   0        |     0         | 44769
@@ -38,3 +36,5 @@ firmware                 | 27  |217  |    106 | 1373
 .github                  |  1  |  3  |      0 |   41
 **SUM**                  | 183 | 789 |    352 | 54167
 -----------------------------------------------------
+
+> Stats from github.com/AlDanial/cloc v 1.92
