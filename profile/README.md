@@ -4,6 +4,7 @@
 ## Trello
 ---------
 https://trello.com/b/5TOcw58f/g%C3%A9n%C3%A9ral
+## Stats as Monday 27th June 2022
 
 | Language                   | files        | blank      | comment       | code
 -----------------------------|--------------|------------|---------------|-----
