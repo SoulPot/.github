@@ -4,43 +4,43 @@
 ## Trello
 ---------
 https://trello.com/b/5TOcw58f/g%C3%A9n%C3%A9ral
-## Stats as Monday 27th June 2022
+## Stats as Monday 4th July 2022
 
 | Language                   | files        | blank      | comment       | code
 -----------------------------|--------------|------------|---------------|-----
-JSON                         |  26          |   0        |     0         | 44769
-Dart                         |  71          | 397        |    83         |  6157
-XML                          |  30          |   9        |    46         |  1055
-C++                          |   9          | 128        |    42         |   872
-C/C++ Header                 |  12          |  62        |    26         |   257
-HTML                         |   2          |  26        |    30         |   196
-JavaScript                   |   2          |  19        |    10         |   174
-TypeScript                   |   4          |  26        |     2         |   153
+JSON                         |  30          |   0        |     0         | 44986
+Dart                         |  96          | 591        |    85         |  9813
+XML                          |  52          |  12        |    91         |  2065
+C++                          |  14          | 210        |    73         |  1203
+C/C++ Header                 |  18          | 103        |    78         |   356
+HTML                         |   3          |  35        |    45         |   276
+JavaScript                   |   2          |  35        |    45         |   258
+TypeScript                   |   4          |  26        |     3         |   156
 Arduino Sketch               |   1          |  23        |    33         |   143
-Markdown                     |   7          |  35        |     0         |   115
-Gradle                       |   3          |  19        |     7         |    92
-YAML                         |   4          |  21        |    46         |    92
-Swift                        |   3          |   5        |     0         |    34
+Markdown                     |   9          |  44        |     0         |   129
+Gradle                       |   6          |  39        |     8         |   197
+YAML                         |   6          |  38        |   127         |   121
+Swift                        |   4          |   6        |     0         |    46
 Objective-C                  |   1          |  10        |     9         |    16
 INI                          |   1          |   1        |     9         |    12
-Properties                   |   2          |   0        |     1         |     8
+Properties                   |   4          |   0        |     2         |    16
 Dockerfile                   |   1          |   4        |     6         |     7
 CSV                          |   1          |   0        |     0         |     6
-CMake                        |   2          |   2        |     2         |     5
-Kotlin                       |   1          |   2        |     0         |     4
-**SUM**                      | **183**      | **789**    |    **352**    |  **54167**
+CMake                        |   6          |  36        |    32         |   171
+Kotlin                       |   1          |   1        |     9         |    12
+**SUM**                      | **262**      | **1237**   |    **615**    |  **60028**
 -------------------------------------------------------------------------------
 
 | File                   |files|blank| comment| code
 -------------------------|-----|-----|--------|------
-firebase-cloud-functions | 12  | 19  |      8 | 34802
+firebase-cloud-functions | 12  | 35  |     11 | 34889
+mobile                   |107  |466  |    118 | 7476
 sprinkle-service         | 10  | 23  |     10 | 7220
-mobile                   | 94  |364  |    112 | 5834
-azure-events-function    |  8  | 16  |      0 | 2805
-back-office              | 31  |147  |    116 | 2092
-firmware                 | 27  |217  |    106 | 1373
-.github                  |  1  |  3  |      0 |   41
-**SUM**                  | 183 | 789 |    352 | 54167
+azure-events-function    |  8  | 16  |      1 | 2808
+back-office              | 43  |184  |     71 | 4372
+firmware                 | 27  |216  |     81 | 1373
+.github                  |  1  |  4  |      0 |   42
+**SUM**                  | 262 | 1237|    615 | 60028
 -----------------------------------------------------
 
 > Stats from github.com/AlDanial/cloc v 1.92
